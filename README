@@ -1,38 +1,38 @@
-EŽg‚¢•ûà–¾
+ãƒ»ä½¿ã„æ–¹èª¬æ˜Ž
 
-‚Pj”FØ—pƒtƒ@ƒCƒ‹‚ðì¬‚·‚é
-@Ecreateuser.html‚ðƒuƒ‰ƒEƒU‚ÅŠJ‚¢‚Ä‚­‚¾‚³‚¢B
-@EŽg—p‚µ‚½‚¢ƒ†[ƒU–¼‚ð“ü—Í‚µ‚ÄAì¬ƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µ‚Ä‰º‚³‚¢B
-@E•\Ž¦‚³‚ê‚½•¶Žš—ñ‚ðƒRƒs[‚µ‚ÄAuser.dat‚É“\‚è‚Â‚¯‚Ä‚­‚¾‚³‚¢B
-@EŠù‚Éuser.dat‚ÉŽ—‚½‚æ‚¤‚È•¶Žš—ñ‚ª‚ ‚éê‡Aã‘‚«‚µ‚Ä‚­‚¾‚³‚¢B
+ï¼‘ï¼‰èªè¨¼ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã™ã‚‹
+ã€€ãƒ»createuser.htmlã‚’ãƒ–ãƒ©ã‚¦ã‚¶ã§é–‹ã„ã¦ãã ã•ã„ã€‚
+ã€€ãƒ»ä½¿ç”¨ã—ãŸã„ãƒ¦ãƒ¼ã‚¶åã‚’å…¥åŠ›ã—ã¦ã€ä½œæˆãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ä¸‹ã•ã„ã€‚
+ã€€ãƒ»è¡¨ç¤ºã•ã‚ŒãŸæ–‡å­—åˆ—ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ã€user.datã«è²¼ã‚Šã¤ã‘ã¦ãã ã•ã„ã€‚
+ã€€ãƒ»æ—¢ã«user.datã«ä¼¼ãŸã‚ˆã†ãªæ–‡å­—åˆ—ãŒã‚ã‚‹å ´åˆã€ä¸Šæ›¸ãã—ã¦ãã ã•ã„ã€‚
 
 
-‚QjƒT[ƒo‘¤‚Éƒtƒ@ƒCƒ‹‚ðƒAƒbƒvƒ[ƒh‚·‚é
-@EƒT[ƒo‘¤‚ÉˆÈ‰º‚Ìƒtƒ@ƒCƒ‹‚ðƒAƒbƒvƒ[ƒh‚µ‚Ä‚­‚¾‚³‚¢B
-@@EcssƒtƒHƒ‹ƒ_
-@@Eadmin.php
-@@Epickup.dat
-@@Epickup.php
-@@Esample.html
-@@Euser.dat
-@Eƒtƒ@ƒCƒ‹‚Ìƒp[ƒ~ƒbƒVƒ‡ƒ“‚ð•ÏX‚µ‚Ä‚­‚¾‚³‚¢B•ÏX‚·‚é“à—e‚Í‰º‹L‚Ì‚Æ‚¨‚è‚Å‚·
-@@E755
-@@@Eadmin.php
-@@@Epickup.php
-@@E666
-@@@Epickup.dat
-@@@Euser.dat
-@@
+ï¼’ï¼‰ã‚µãƒ¼ãƒå´ã«ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã™ã‚‹
+ã€€ãƒ»ã‚µãƒ¼ãƒå´ã«ä»¥ä¸‹ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ã¦ãã ã•ã„ã€‚
+ã€€ã€€ãƒ»cssãƒ•ã‚©ãƒ«ãƒ€
+ã€€ã€€ãƒ»admin.php
+ã€€ã€€ãƒ»pickup.dat
+ã€€ã€€ãƒ»pickup.php
+ã€€ã€€ãƒ»sample.html
+ã€€ã€€ãƒ»user.dat
+ã€€ãƒ»ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ‘ãƒ¼ãƒŸãƒƒã‚·ãƒ§ãƒ³ã‚’å¤‰æ›´ã—ã¦ãã ã•ã„ã€‚å¤‰æ›´ã™ã‚‹å†…å®¹ã¯ä¸‹è¨˜ã®ã¨ãŠã‚Šã§ã™
+ã€€ã€€ãƒ»755
+ã€€ã€€ã€€ãƒ»admin.php
+ã€€ã€€ã€€ãƒ»pickup.php
+ã€€ã€€ãƒ»666
+ã€€ã€€ã€€ãƒ»pickup.dat
+ã€€ã€€ã€€ãƒ»user.dat
+ã€€ã€€
 
-‚Rj‰æ–Ê‚ÉƒƒOƒCƒ“‚·‚é
-@Eƒuƒ‰ƒEƒU‚ÅAadmin.php‚ÉƒAƒNƒZƒX‚µ‚Ä‚­‚¾‚³‚¢
-@EƒƒOƒCƒ“‰æ–Ê‚ª•\Ž¦‚³‚ê‚Ü‚·‚Ì‚ÅAƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ð“ü—Í‚µ‚ÄƒƒOƒCƒ“‚µ‚Ä‚­‚¾‚³‚¢B
-@E‰ŠúƒpƒXƒ[ƒh‚Íu123456v‚Å‚·
-@EƒƒOƒCƒ“‚É¬Œ÷‚·‚é‚ÆŠÇ—ŽÒ‰æ–Ê‚ª•\Ž¦‚³‚ê‚Ü‚·B
-@@E•¶Œ¾‚ðC³‚µ‚½‚¢Žž‚ÍA•¶Œ¾XVƒtƒH[ƒ€‚Ì“à—e‚ð•ÏX‚µA•Û‘¶ƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µ‚Ä‰º‚³‚¢B
-@@EƒpƒXƒ[ƒh‚ð•ÏX‚µ‚½‚¢ê‡‚ÍAƒpƒXƒ[ƒh•ÏXƒtƒH[ƒ€‚ÉV‚µ‚¢ƒpƒXƒ[ƒh‚ð“ü—Í‚µ‚ÄƒpƒXƒ[ƒh•ÏXƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µ‚Ä‰º‚³‚¢B
-@@EƒƒOƒAƒEƒg‚·‚éŽž‚ÍAƒƒOƒAƒEƒgƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN‚µ‚Ä‰º‚³‚¢B
+ï¼“ï¼‰ç”»é¢ã«ãƒ­ã‚°ã‚¤ãƒ³ã™ã‚‹
+ã€€ãƒ»ãƒ–ãƒ©ã‚¦ã‚¶ã§ã€admin.phpã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¦ãã ã•ã„
+ã€€ãƒ»ãƒ­ã‚°ã‚¤ãƒ³ç”»é¢ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ã®ã§ã€ãƒ¦ãƒ¼ã‚¶åã¨ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãƒ­ã‚°ã‚¤ãƒ³ã—ã¦ãã ã•ã„ã€‚
+ã€€ãƒ»åˆæœŸãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã¯ã€Œ123456ã€ã§ã™
+ã€€ãƒ»ãƒ­ã‚°ã‚¤ãƒ³ã«æˆåŠŸã™ã‚‹ã¨ç®¡ç†è€…ç”»é¢ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+ã€€ã€€ãƒ»æ–‡è¨€ã‚’ä¿®æ­£ã—ãŸã„æ™‚ã¯ã€æ–‡è¨€æ›´æ–°ãƒ•ã‚©ãƒ¼ãƒ ã®å†…å®¹ã‚’å¤‰æ›´ã—ã€ä¿å­˜ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ä¸‹ã•ã„ã€‚
+ã€€ã€€ãƒ»ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å¤‰æ›´ã—ãŸã„å ´åˆã¯ã€ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰å¤‰æ›´ãƒ•ã‚©ãƒ¼ãƒ ã«æ–°ã—ã„ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰å¤‰æ›´ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ä¸‹ã•ã„ã€‚
+ã€€ã€€ãƒ»ãƒ­ã‚°ã‚¢ã‚¦ãƒˆã™ã‚‹æ™‚ã¯ã€ãƒ­ã‚°ã‚¢ã‚¦ãƒˆãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ä¸‹ã•ã„ã€‚
 
-‚SjŒ‹‰Ê‚ðŠm”F‚·‚é
-@Eƒuƒ‰ƒEƒU‚ÅAsample.html‚ÉƒAƒNƒZƒX‚µ‚Ä‚­‚¾‚³‚¢B
-@EXV“à—e‚ª•\Ž¦‚³‚ê‚Ä‚¢‚éŽ–‚ðŠm”F‚µ‚Ä‰º‚³‚¢B
+ï¼”ï¼‰çµæžœã‚’ç¢ºèªã™ã‚‹
+ã€€ãƒ»ãƒ–ãƒ©ã‚¦ã‚¶ã§ã€sample.htmlã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¦ãã ã•ã„ã€‚
+ã€€ãƒ»æ›´æ–°å†…å®¹ãŒè¡¨ç¤ºã•ã‚Œã¦ã„ã‚‹äº‹ã‚’ç¢ºèªã—ã¦ä¸‹ã•ã„ã€‚
