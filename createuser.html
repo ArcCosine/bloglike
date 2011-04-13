@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>ユーザデータ作成</title>
+  <script type="text/javascript">
+    function init(){
+      document.getElementById("btn").onclick = function(){
+        var base = 'a:1:{s:{size}:"{name}";s:64:"dbd978ccdbbe8b6de77f6b37b5df9b5b62a7e892a501c3b53eaa16b0838bd5ed";}'
+        var name = document.getElementById("name").value;
+        if( !/^[a-zA-Z0-9]*$/.test(name) ){
+          alert("ユーザ名は英数字のみを受け付けています");
+          return;
+        }
+        if( name.length != 0 ){
+          var output = base.replace(/{size}/,name.length);
+          output = output.replace(/{name}/,name);
+          document.getElementById("output").value = output;
+        }else{
+          alert('名前を入力してください');
+        }
+      }
+    }
+  </script>
+</head>
+<body onload="init()">
+  <p>ユーザ名に使用できる文字は英数字のみです</p>
+  <p>表示された文字列をコピーして、user.datファイルの内容を上書きしてください</p>
+  <p>最初のログインパスワードは「123456」です</p>
+  <p>管理画面でパスワード変更出来ますので、ログイン後直ぐにパスワードを変更してください</p>
+  <label for="name">ユーザ名</label>
+  <input id="name" type="text" />
+  <input type="button" id="btn" value="作成"/><br>
+  <textarea id="output" name="" rows="5" cols="130"></textarea>
+</body>
+</html>

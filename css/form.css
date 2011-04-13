@@ -1,0 +1,31 @@
+@charset "Shift-JIS";
+
+h1 {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+form {
+  width: 480px;
+  margin: 0;
+}
+
+input[type=text],input[type=password], textarea {
+  border-top: 1px solid #7C7C7C;
+  border-left: 1px solid #C3C3C3;
+  border-right: 1px solid #C3C3C3;
+  border-bottom: 1px solid #DDD;
+}
+
+textarea {
+  width: 400px;
+}
+
+ul,li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
